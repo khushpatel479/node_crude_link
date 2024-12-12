@@ -1,0 +1,20 @@
+node folder structure 
+
+first create main folder as eshop
+then create routes , models in it
+
+then open eshop and run npm init,npm install express
+
+then in route folder write queries
+
+In model folder create models
+
+then create app.js filr in main folder outside.
+and call logics in it.
+
+also create dot-env file 
+
+npm install mongoose
+npm install dotenv
+npm install body-parser
+npm install cors
